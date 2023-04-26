@@ -1,0 +1,22 @@
+.input-wrapper {
+    height: 7em;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+  
+    padding: 16px;
+  }
+  
+  .result {
+    border-radius: 20%;
+    background-color: rgb(244, 241, 238);
+    /* flex: 1; */
+    font-size: 18px;
+    
+  }
+  
+  .text {
+    flex: 1;
+    font-size: 18px;
+  }
